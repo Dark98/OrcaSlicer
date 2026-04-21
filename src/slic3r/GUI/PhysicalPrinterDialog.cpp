@@ -164,7 +164,10 @@ void PhysicalPrinterDialog::build_printhost_settings(ConfigOptionsGroup* m_optgr
             def.label   = L("Printer Agent");
             def.tooltip = L("Select the network agent implementation for printer communication. "
                             "Available agents are registered at startup.");
-            def.mode    = comAdvanced;
+            // Keep printer agent selection visible for custom/community profiles so
+            // users can choose a transport implementation without depending on a
+            // vendor preset to pre-populate printer_agent.
+            def.mode    = comSimple;
 
             // Populate enum values and labels from registered agents
             for (const auto& agent : agents) {

@@ -1,0 +1,50 @@
+{
+	"name": "Monoprice Mini Delta V2",
+	"version": "02.04.00.02",
+	"force_update": "0",
+	"description": "Monoprice Mini Delta V2 configurations",
+	"machine_model_list": [
+		{
+			"name": "Monoprice Mini Delta V2",
+			"sub_path": "machine/Monoprice Mini Delta V2.json"
+		}
+	],
+	"machine_list": [
+		{
+			"name": "Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "machine/Monoprice Mini Delta V2 0.4 nozzle.json"
+		}
+	],
+	"process_list": [
+		{
+			"name": "0.20mm Standard @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "process/0.20mm Standard @Monoprice Mini Delta V2 0.4 nozzle.json"
+		},
+		{
+			"name": "0.20mm Speed @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "process/0.20mm Speed @Monoprice Mini Delta V2 0.4 nozzle.json"
+		},
+		{
+			"name": "0.12mm Fine @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "process/0.12mm Fine @Monoprice Mini Delta V2 0.4 nozzle.json"
+		},
+		{
+			"name": "0.16mm Optimal @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "process/0.16mm Optimal @Monoprice Mini Delta V2 0.4 nozzle.json"
+		},
+		{
+			"name": "0.24mm Draft @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "process/0.24mm Draft @Monoprice Mini Delta V2 0.4 nozzle.json"
+		},
+		{
+			"name": "0.28mm Extra Draft @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "process/0.28mm Extra Draft @Monoprice Mini Delta V2 0.4 nozzle.json"
+		}
+	],
+	"filament_list": [
+		{
+			"name": "Generic PLA @Monoprice Mini Delta V2 0.4 nozzle",
+			"sub_path": "filament/Generic PLA @Monoprice Mini Delta V2 0.4 nozzle.json"
+		}
+	]
+}

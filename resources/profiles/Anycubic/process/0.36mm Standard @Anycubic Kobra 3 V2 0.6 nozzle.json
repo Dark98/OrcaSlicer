@@ -15,7 +15,6 @@
 	"inner_wall_acceleration": "6000",
 	"inner_wall_jerk": "9",
 	"outer_wall_jerk": "9",
-	"overhang_totally_speed": "10",
 	"raft_first_layer_expansion": "5",
 	"sparse_infill_acceleration": "6000",
 	"support_threshold_angle": "30",

@@ -4,7 +4,7 @@
 	"inherits": "fdm_filament_pla",
 	"from": "system",
 	"setting_id": "Sjw7irNgwCZMfWS3",
-	"filament_id": "GFPLA Marble",
+	"filament_id": "OFCSyK66",
 	"instantiation": "true",
 	"filament_settings_id": [
 		"Anycubic PLA Marble @Anycubic Kobra 3 V2 0.6 nozzle"
@@ -108,9 +108,6 @@
 	"filament_is_support": [
 		"0"
 	],
-	"filament_load_time": [
-		"42"
-	],
 	"filament_loading_speed": [
 		"0"
 	],
@@ -178,9 +175,6 @@
 		"; filament start gcode"
 	],
 	"filament_toolchange_delay": [
-		"0"
-	],
-	"filament_unload_time": [
 		"0"
 	],
 	"filament_unloading_speed": [

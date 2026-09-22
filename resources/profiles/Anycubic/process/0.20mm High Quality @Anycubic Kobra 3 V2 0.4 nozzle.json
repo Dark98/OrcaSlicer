@@ -31,7 +31,6 @@
 	"outer_wall_jerk": "9",
 	"outer_wall_speed": "60",
 	"overhang_4_4_speed": "10",
-	"overhang_totally_speed": "10",
 	"prime_tower_width": "30",
 	"raft_first_layer_expansion": "5",
 	"scarf_joint_flow_ratio": "1",

@@ -4,7 +4,7 @@
 	"inherits": "fdm_filament_pla",
 	"from": "system",
 	"setting_id": "TR27JCwXxHeVhVHN",
-	"filament_id": "GFPLA",
+	"filament_id": "OFmjN2bc",
 	"instantiation": "true",
 	"filament_settings_id": [
 		"Anycubic PLA @Anycubic Kobra 3 V2 0.8 nozzle"
@@ -111,9 +111,6 @@
 	"filament_is_support": [
 		"0"
 	],
-	"filament_load_time": [
-		"42"
-	],
 	"filament_loading_speed": [
 		"0"
 	],
@@ -181,9 +178,6 @@
 		"; filament start gcode"
 	],
 	"filament_toolchange_delay": [
-		"0"
-	],
-	"filament_unload_time": [
 		"0"
 	],
 	"filament_unloading_speed": [
